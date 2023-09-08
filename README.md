@@ -1,0 +1,2 @@
+# SDN-Security
+The project aims to enhance security for an SDN (Software-Defined Networking) network by detecting DOS (Denial of Service) and DDOS (Distributed Denial of Service) attacks and subsequently blocking the MAC address of the attacker. Additionally, the project includes a script to execute various types of DDOS attacks (TCP, UDP, ICMP). The network itself comprises a local network consisting of 7 switches and 8 hosts, organized in a tree-like structure. To bolster network security, an alternate controller has been implemented as a backup to the primary controller.
